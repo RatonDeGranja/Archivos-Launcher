@@ -1731,6 +1731,16 @@
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/YungsExtras-1.20-Forge-4.0.3.jar",
             "MD5": "6a592ed7502e13d840fa25587325202d"
           }
+        },
+        {
+          "id": "org.violetmoon.zetaimplforge.mod:zeta:1.0-31@jar",
+          "name": "Zeta",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1006518,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/Zeta-1.0-31.jar",
+            "MD5": "98b72e20dacbdb4da4bd187f56ed4012"
+          }
         }
       ]
     }
