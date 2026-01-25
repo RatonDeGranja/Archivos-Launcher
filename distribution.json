@@ -1133,6 +1133,16 @@
           }
         },
         {
+          "id": "org.anti_ad.mc:libipn:4.0.2@jar",
+          "name": "LibIPN",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 693301,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/libIPN-forge-1.20-4.0.2.jar",
+            "MD5": "ef3a86f4867dba031dd6adef7e45d396"
+          }
+        },
+        {
           "id": "noobanidus.mods:lootr:0.7.35.94@jar",
           "name": "Lootr",
           "type": "ForgeMod",
@@ -1323,6 +1333,16 @@
           }
         },
         {
+          "id": "org.violetmoon.quark.base:quark:4.0-462@jar",
+          "name": "Quark",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14935230,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/Quark-4.0-462.jar",
+            "MD5": "6eef0d0ac52df0c239cb443abc137f3d"
+          }
+        },
+        {
           "id": "it.hurts.sskirillss:relics:0.8.0.9@jar",
           "name": "Relics",
           "type": "ForgeMod",
@@ -1510,6 +1530,16 @@
             "size": 115132,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/tarotcards-1.20-1.7.0.jar",
             "MD5": "5f36c6851be1133a132a05e9cddca2c3"
+          }
+        },
+        {
+          "id": "net.thetct:tctcore:2.1@jar",
+          "name": "Tctcore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 805156,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/TCTcore-1.20.1.jar",
+            "MD5": "c3d398ee78069451b98c8909efe52697"
           }
         },
         {
