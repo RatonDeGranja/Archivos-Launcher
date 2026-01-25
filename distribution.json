@@ -613,6 +613,16 @@
           }
         },
         {
+          "id": "org.popcraft:chunky:1.3.146@jar",
+          "name": "Chunky",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341451,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/Chunky-1.3.146.jar",
+            "MD5": "ed46120ac4f30ec8e03f6416e295577c"
+          }
+        },
+        {
           "id": "com.github.alexthe666:citadel:2.6.2@jar",
           "name": "Citadel",
           "type": "ForgeMod",
@@ -763,6 +773,46 @@
           }
         },
         {
+          "id": "com.ferreusveritas:dynamictrees:1.20.1-1.4.10@jar",
+          "name": "Dynamic Trees",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3754640,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/DynamicTrees-1.20.1-1.4.10.jar",
+            "MD5": "5894dcd9b389c1c0252ceb006e97ab52"
+          }
+        },
+        {
+          "id": "therealeststu.dtbop:dtbop:1.20.1-3.3.3@jar",
+          "name": "Dynamic Trees for Biomes o' Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 413434,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/DynamicTreesBOP-1.20.1-3.3.3.jar",
+            "MD5": "611a6a48e0bea10c420526b20f9af653"
+          }
+        },
+        {
+          "id": "com.ferreusveritas:dynamictreesplus:1.20.1-1.2.2@jar",
+          "name": "Dynamic Trees Plus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 534713,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/DynamicTreesPlus-1.20.1-1.2.2.jar",
+            "MD5": "cbf483b0f1c2b9faafd95ff9f3e47233"
+          }
+        },
+        {
+          "id": "maxhyper.dtquark:dtquark:1.20.1-2.5.3@jar",
+          "name": "Dynamic Trees for Quark",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 464224,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/DynamicTreesQuark-1.20.1-2.5.3.jar",
+            "MD5": "21cd4a4afa8d5d791d46ae946046aa66"
+          }
+        },
+        {
           "id": "de.markusbordihn.easynpc.bundle:easy_npc_bundle:6.6.2@jar",
           "name": "Easy NPC: Bundle",
           "type": "ForgeMod",
@@ -860,6 +910,16 @@
             "size": 69739,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/forgivingvoid-forge-1.20.1-10.0.3.jar",
             "MD5": "401a8ccfcdda898c177b7e58918848bf"
+          }
+        },
+        {
+          "id": "net.fpsboostremake:fpsboostremake:1.5@jar",
+          "name": "FPSBoostRemake",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 193638,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/fpsboostremake-1.5-forge-1.20.1.jar",
+            "MD5": "0d245f7ab4c6755b31fefc43a9e69544"
           }
         },
         {
@@ -980,6 +1040,16 @@
             "size": 426980,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.3+1.20.4.jar",
             "MD5": "1e5278b2585bab1db76d4b1ab61e82c1"
+          }
+        },
+        {
+          "id": "org.anti_ad.mc.ipnext:inventoryprofilesnext:1.10.19@jar",
+          "name": "Inventory Profiles Next",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1456863,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/InventoryProfilesNext-forge-1.20-1.10.19.jar",
+            "MD5": "eafdba0041b0811e9e7afda28a5927fe"
           }
         },
         {
@@ -1490,6 +1560,16 @@
             "size": 14703606,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/ultris-v5.6.9c.jar",
             "MD5": "bdadd684e7c3bcd28bfdb8bb79536fc5"
+          }
+        },
+        {
+          "id": "com.focamacho:vampiresneedumbrellas:1.0.1@jar",
+          "name": "Vampires Need Umbrellas",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 250266,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/VampiresNeedUmbrellas-1.20.1-1.0.1.jar",
+            "MD5": "34e6105741a2a521c5dc9caaf0b34130"
           }
         },
         {
