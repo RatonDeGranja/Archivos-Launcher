@@ -918,8 +918,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 193638,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/fpsboostremake-1.5-forge-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/optionalon/fpsboostremake-1.5-forge-1.20.1.jar",
             "MD5": "0d245f7ab4c6755b31fefc43a9e69544"
+          },
+          "required": {
+            "value": false
           }
         },
         {
