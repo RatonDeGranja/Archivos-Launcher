@@ -433,6 +433,16 @@
           ]
         },
         {
+          "id": "net.geforcemods:securitycraft:1.10.0.1@jar",
+          "name": "SecurityCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4648724,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/[1.20.1]%20SecurityCraft%20v1.10.0.1.jar",
+            "MD5": "9ef0bc4940bf472feff9592f528782ea"
+          }
+        },
+        {
           "id": "net.habb:alienevo:1.1.2@jar",
           "name": "AlienEvo",
           "type": "ForgeMod",
@@ -763,6 +773,16 @@
           }
         },
         {
+          "id": "generated.forgemod:darkside:1.2.1@jar",
+          "name": "Darkside Of Anur",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 577706,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/Darkside_Of_Anur(1.2.2%20BugFix).jar",
+            "MD5": "0fe0108d53d2d2063e39407335d43cdf"
+          }
+        },
+        {
           "id": "com.modrinth.ak1n0iqm:mr_dynamic_torches:5.3@jar",
           "name": "Dynamic Lights",
           "type": "ForgeMod",
@@ -918,11 +938,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 193638,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/optionalon/fpsboostremake-1.5-forge-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/fpsboostremake-1.5-forge-1.20.1.jar",
             "MD5": "0d245f7ab4c6755b31fefc43a9e69544"
-          },
-          "required": {
-            "value": false
           }
         },
         {
