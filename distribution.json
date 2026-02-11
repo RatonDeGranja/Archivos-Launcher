@@ -443,6 +443,16 @@
           }
         },
         {
+          "id": "juuxel.adorn.platform:adorn:5.0.1+1.20.1@jar",
+          "name": "Adorn",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4126239,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/Adorn-5.0.1+1.20.1-forge.jar",
+            "MD5": "6a828aba4cd092e064d27e4d1968ae9a"
+          }
+        },
+        {
           "id": "net.habb:alienevo:1.1.2@jar",
           "name": "AlienEvo",
           "type": "ForgeMod",
@@ -590,6 +600,26 @@
             "size": 502662,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/Bountiful-6.0.4+1.20.1-forge.jar",
             "MD5": "14437740bee567400d0bafbf028434b6"
+          }
+        },
+        {
+          "id": "top.theillusivec4:caelus:3.2.0+1.20.1@jar",
+          "name": "Caelus API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 40125,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/caelus-forge-3.2.0+1.20.1.jar",
+            "MD5": "e37854c44b1849b753afc4a205f31b46"
+          }
+        },
+        {
+          "id": "tschipp.carryon:carryon:2.1.2.7@jar",
+          "name": "Carry On",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 439457,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
+            "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
           }
         },
         {
@@ -863,6 +893,36 @@
           }
         },
         {
+          "id": "xyz.vsngamer:elevatorid:1.20.1-1.9.1-forge@jar",
+          "name": "Elevator Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 187868,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/elevatorid-1.20.1-1.9.1-forge.jar",
+            "MD5": "b4784b8ae695f179d0aefaaa82018968"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:elytraslot:6.4.4+1.20.1@jar",
+          "name": "Elytra Slot",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 100660,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/elytraslot-forge-6.4.4+1.20.1.jar",
+            "MD5": "54fd8868bbff9fc88befe9b32555dfe8"
+          }
+        },
+        {
+          "id": "io.github.kosmx.emotes:emotecraft:2.2.7-b.build.50@jar",
+          "name": "Emotecraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 680255,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+            "MD5": "636c62379cd7c5201a70fd457808e331"
+          }
+        },
+        {
           "id": "net.liopyu:entityjs:0.6.6-1.20.1@jar",
           "name": "EntityJS",
           "type": "ForgeMod",
@@ -930,6 +990,16 @@
             "size": 69739,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/forgivingvoid-forge-1.20.1-10.0.3.jar",
             "MD5": "401a8ccfcdda898c177b7e58918848bf"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbchunks:2001.3.6@jar",
+          "name": "FTB Chunks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1158842,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/ftb-chunks-forge-2001.3.6.jar",
+            "MD5": "64af750c0cbcadd4b27fb58236654814"
           }
         },
         {
@@ -1050,6 +1120,16 @@
             "size": 426980,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.3+1.20.4.jar",
             "MD5": "1e5278b2585bab1db76d4b1ab61e82c1"
+          }
+        },
+        {
+          "id": "immersive_aircraft:immersive_aircraft:1.4.0+1.20.1@jar",
+          "name": "Immersive Aircraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2428368,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/immersive_aircraft-1.4.0+1.20.1-forge.jar",
+            "MD5": "f49ff767f611a95f9bd29a0e9977d9d5"
           }
         },
         {
