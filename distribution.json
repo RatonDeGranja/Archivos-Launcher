@@ -1083,16 +1083,6 @@
           }
         },
         {
-          "id": "com.leclowndu93150.corpsecurioscompat:gravestonecurioscompat:3.0.0@jar",
-          "name": "Gravestonecurioscompat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 12430,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/gravestonecurioscompat-1.20.x-Forge-3.0.0.jar",
-            "MD5": "5e4945677fc2466b0417e98a5a2b61e3"
-          }
-        },
-        {
           "id": "com.github.alexthe666:iceandfire:2.1.13-1.20.1@jar",
           "name": "Ice and Fire",
           "type": "ForgeMod",
