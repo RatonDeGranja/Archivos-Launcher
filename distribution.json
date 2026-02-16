@@ -1083,16 +1083,6 @@
           }
         },
         {
-          "id": "de.maxhenkel:gravestone:1.20.1-1.0.24@jar",
-          "name": "Gravestone Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 316049,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/gravestone-forge-1.20.1-1.0.24.jar",
-            "MD5": "ee723c003151620d9d24bb96add2837b"
-          }
-        },
-        {
           "id": "com.leclowndu93150.corpsecurioscompat:gravestonecurioscompat:3.0.0@jar",
           "name": "Gravestonecurioscompat",
           "type": "ForgeMod",
@@ -1640,6 +1630,16 @@
             "size": 506353,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/ToadLib-1.3.5-1.20.1.jar",
             "MD5": "534513edee18af411960384e91752fed"
+          }
+        },
+        {
+          "id": "ovh.corail:tombstone:9.0.9@jar",
+          "name": "Corail Tombstone",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2335020,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/tombstone-1.20.1-9.0.9.jar",
+            "MD5": "19b3d2decf61a4fc893fd2e4a93c2261"
           }
         },
         {
