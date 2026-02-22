@@ -603,6 +603,16 @@
           }
         },
         {
+          "id": "com.mistrx:buildpaste:1.11.1@jar",
+          "name": "BuildPaste for Forge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 216686,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/BuildPasteMod-1.20.1v1.10.1.jar",
+            "MD5": "f931ece256f222d573a59bc15e5db3a7"
+          }
+        },
+        {
           "id": "top.theillusivec4:caelus:3.2.0+1.20.1@jar",
           "name": "Caelus API",
           "type": "ForgeMod",
@@ -1033,6 +1043,16 @@
           }
         },
         {
+          "id": "net.creeperhost.ftbbackups:ftbbackups2:1.0.23@jar",
+          "name": "FTB Backups 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1954591,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/ftbbackups2-forge-1.20-1.0.23.jar",
+            "MD5": "d03cc8191ad47156c977d53468421559"
+          }
+        },
+        {
           "id": "toni.ftbquestsfreezefix:ftbquestsfreezefix:1.0.0@jar",
           "name": "FTB Quests Freeze Fix",
           "type": "ForgeMod",
@@ -1213,16 +1233,6 @@
           }
         },
         {
-          "id": "com.mrbysco:lunar:0.2.7@jar",
-          "name": "Lunar",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 100578,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/Lunar-forge-1.20.1-0.2.7.jar",
-            "MD5": "a968ee1879d8bb7d026171d7cf40ec9b"
-          }
-        },
-        {
           "id": "fuzs.magnumtorch:magnumtorch:8.0.2@jar",
           "name": "Magnum Torch",
           "type": "ForgeMod",
@@ -1340,6 +1350,16 @@
             "size": 424035,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
             "MD5": "6b2fd012966b13a96ce4f68ae42eab8c"
+          }
+        },
+        {
+          "id": "com.anar4732:opf:1@jar",
+          "name": "Modern Online Picture Frames",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 58548,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/opf-1.20.1.jar",
+            "MD5": "12e797343536a86ee49b232d2117f8b0"
           }
         },
         {
@@ -1470,6 +1490,16 @@
             "size": 1498355,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/silent_hill_mod-2.0.jar",
             "MD5": "d3e7abe4f44e5054d6f2836d056bf1f9"
+          }
+        },
+        {
+          "id": "wolforce.simpleshops:simpleshops:1.2.2@jar",
+          "name": "Simple Shops",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 135614,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/simpleshops-1.2.2.jar",
+            "MD5": "2620b7e35ea1398f2e31e3a6ebf0555f"
           }
         },
         {
