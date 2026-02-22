@@ -603,16 +603,6 @@
           }
         },
         {
-          "id": "com.mistrx:buildpaste:1.11.1@jar",
-          "name": "BuildPaste for Forge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 216686,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/BuildPasteMod-1.20.1v1.10.1.jar",
-            "MD5": "f931ece256f222d573a59bc15e5db3a7"
-          }
-        },
-        {
           "id": "top.theillusivec4:caelus:3.2.0+1.20.1@jar",
           "name": "Caelus API",
           "type": "ForgeMod",
