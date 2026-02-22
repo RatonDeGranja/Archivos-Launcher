@@ -783,6 +783,16 @@
           }
         },
         {
+          "id": "team.creative:creativecore:2.12.35@jar",
+          "name": "CreativeCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1143788,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+            "MD5": "a58f958ab8b789af3c6b3a9d93ca415d"
+          }
+        },
+        {
           "id": "com.periut:cryonicconfig:1.0.0+mc1.20.1@jar",
           "name": "Cryonic Config",
           "type": "ForgeMod",
@@ -920,6 +930,16 @@
             "size": 100660,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/elytraslot-forge-6.4.4+1.20.1.jar",
             "MD5": "54fd8868bbff9fc88befe9b32555dfe8"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
         {
@@ -1353,6 +1373,16 @@
           }
         },
         {
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851119,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
+          }
+        },
+        {
           "id": "com.anar4732:opf:1@jar",
           "name": "Modern Online Picture Frames",
           "type": "ForgeMod",
@@ -1403,6 +1433,16 @@
           }
         },
         {
+          "id": "net.creeperhost:polylib:2000.0.3-build.143@jar",
+          "name": "PolyLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1343694,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/polylib-forge-2000.0.3-build.143.jar",
+            "MD5": "ffb6c10b010e7e4fd5eba9f864182593"
+          }
+        },
+        {
           "id": "fuzs.puzzleslib.impl:puzzleslib:8.1.32@jar",
           "name": "Puzzles Lib",
           "type": "ForgeMod",
@@ -1450,6 +1490,16 @@
             "size": 288142,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/rightclickharvest-forge-4.5.3+1.20.1.jar",
             "MD5": "2531423ad9a4511da59035912dd73963"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods.sodiumextra:embeddium_extra:0.5.4.4+mc1.20.1-build.131@jar",
+          "name": "Embeddium Extra",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 568608,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+            "MD5": "a96fb0a07b75eb07b200e8f9c0dfb9f4"
           }
         },
         {
