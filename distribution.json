@@ -1563,6 +1563,16 @@
           }
         },
         {
+          "id": "net.mcreator:snatched:1.2.0@jar",
+          "name": "Snatched",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1665077,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/snatched-1.2.0-forge-1.20.1.jar",
+            "MD5": "22cdde632d19697e16e57f9c22bd083f"
+          }
+        },
+        {
           "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.24.20.1500@jar",
           "name": "Sophisticated Backpacks",
           "type": "ForgeMod",
