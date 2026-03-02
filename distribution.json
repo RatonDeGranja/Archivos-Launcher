@@ -603,6 +603,16 @@
           }
         },
         {
+          "id": "com.direwolf20:buildinggadgets2:1.0.8@jar",
+          "name": "Building Gadgets 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3833683,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/buildinggadgets2-1.0.8.jar",
+            "MD5": "8e804b7a62c8011375e5821ad2a9dc07"
+          }
+        },
+        {
           "id": "top.theillusivec4:caelus:3.2.0+1.20.1@jar",
           "name": "Caelus API",
           "type": "ForgeMod",
@@ -1560,16 +1570,6 @@
             "size": 362339,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/SmartBrainLib-forge-1.20.1-1.15.jar",
             "MD5": "66b1b63bc195eeeb51de8d3e8b12ab21"
-          }
-        },
-        {
-          "id": "net.mcreator:snatched:1.2.0@jar",
-          "name": "Snatched",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1665077,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/snatched-1.2.0-forge-1.20.1.jar",
-            "MD5": "22cdde632d19697e16e57f9c22bd083f"
           }
         },
         {
