@@ -603,16 +603,6 @@
           }
         },
         {
-          "id": "com.direwolf20:buildinggadgets2:1.0.8@jar",
-          "name": "Building Gadgets 2",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3833683,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/buildinggadgets2-1.0.8.jar",
-            "MD5": "8e804b7a62c8011375e5821ad2a9dc07"
-          }
-        },
-        {
           "id": "top.theillusivec4:caelus:3.2.0+1.20.1@jar",
           "name": "Caelus API",
           "type": "ForgeMod",
@@ -1810,6 +1800,16 @@
             "size": 2306751,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/Werewolves-1.20.1-2.0.2.7.jar",
             "MD5": "c9013ea67b5c01b3030a8553d611f215"
+          }
+        },
+        {
+          "id": "com.sk89q:worldedit:7.2.15+6463-5ca4dff@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5825402,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
+            "MD5": "bd0e7cff7896348faab92e43300d0639"
           }
         },
         {
