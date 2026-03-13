@@ -1293,6 +1293,16 @@
           }
         },
         {
+          "id": "com.github.l_ender:lionfishapi:2.4-Fix@jar",
+          "name": "LionfishAPI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 162767,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/lionfishapi-2.4-Fix.jar",
+            "MD5": "81efd7c198c3c7036c77c79cae764ed4"
+          }
+        },
+        {
           "id": "noobanidus.mods:lootr:0.7.35.94@jar",
           "name": "Lootr",
           "type": "ForgeMod",
