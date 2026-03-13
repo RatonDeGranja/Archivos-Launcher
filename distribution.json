@@ -1273,6 +1273,16 @@
           }
         },
         {
+          "id": "com.github.l_ender:cataclysm:3.16@jar",
+          "name": "Cataclysm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 127993805,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/L_Enders_Cataclysm-3.16.jar",
+            "MD5": "de747fb259b761f7b872654516fa27b3"
+          }
+        },
+        {
           "id": "org.anti_ad.mc:libipn:4.0.2@jar",
           "name": "LibIPN",
           "type": "ForgeMod",
