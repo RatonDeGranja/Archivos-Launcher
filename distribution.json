@@ -1133,6 +1133,16 @@
           }
         },
         {
+          "id": "me.fzzyhmstrs:fzzy_config:0.7.6+1.20.1+forge@jar",
+          "name": "Fzzy Config",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2374667,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/fzzy_config-0.7.6+1.20.1+forge.jar",
+            "MD5": "f48f8112f6e2d161c655b750f6bfd0c8"
+          }
+        },
+        {
           "id": "software.bernie.example:geckolib:4.8.2@jar",
           "name": "GeckoLib 4",
           "type": "ForgeMod",
