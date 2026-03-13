@@ -1273,16 +1273,6 @@
           }
         },
         {
-          "id": "com.github.l_ender:cataclysm:3.16@jar",
-          "name": "Cataclysm",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 127993805,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/L_Enders_Cataclysm-3.16.jar",
-            "MD5": "de747fb259b761f7b872654516fa27b3"
-          }
-        },
-        {
           "id": "org.anti_ad.mc:libipn:4.0.2@jar",
           "name": "LibIPN",
           "type": "ForgeMod",
@@ -1290,16 +1280,6 @@
             "size": 693301,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/libIPN-forge-1.20-4.0.2.jar",
             "MD5": "ef3a86f4867dba031dd6adef7e45d396"
-          }
-        },
-        {
-          "id": "com.github.l_ender:lionfishapi:2.4-Fix@jar",
-          "name": "LionfishAPI",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 162767,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/lionfishapi-2.4-Fix.jar",
-            "MD5": "81efd7c198c3c7036c77c79cae764ed4"
           }
         },
         {
