@@ -443,6 +443,16 @@
           }
         },
         {
+          "id": "net.dawson:adorablehamsterpets:3.5.0-1.20.1+forge@jar",
+          "name": "Adorable Hamster Pets",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5830963,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/adorablehamsterpets-3.5.0-1.20.1+forge.jar",
+            "MD5": "096f7efd4100be4979de1bf47131f291"
+          }
+        },
+        {
           "id": "juuxel.adorn.platform:adorn:5.0.1+1.20.1@jar",
           "name": "Adorn",
           "type": "ForgeMod",
@@ -523,6 +533,16 @@
           }
         },
         {
+          "id": "artifacts:artifacts:9.5.16@jar",
+          "name": "Artifacts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 850457,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/artifacts-forge-9.5.16.jar",
+            "MD5": "85081468e7498005f5dfdab2ae520097"
+          }
+        },
+        {
           "id": "mod.azure:azurelib:3.1.3@jar",
           "name": "AzureLib",
           "type": "ForgeMod",
@@ -590,6 +610,16 @@
             "size": 14953384,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/bloodmagic-1.20.1-3.3.5-47.jar",
             "MD5": "2ea93121fc479407e28952b1c04334c2"
+          }
+        },
+        {
+          "id": "com.legacy:blue_skies:1.3.31@jar",
+          "name": "Blue Skies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 83564111,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/blue_skies-1.20.1-1.3.31.jar",
+            "MD5": "b808868fc3075d2f2ed62f3df27693ae"
           }
         },
         {
@@ -1603,6 +1633,16 @@
           }
         },
         {
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.5.1@jar",
+          "name": "Sound Physics Remastered",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 206984,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+            "MD5": "d70031b5058fb81d2670a4039440b00f"
+          }
+        },
+        {
           "id": "generated.forgemod:spellbound_weapons_mr:4.0.5m@jar",
           "name": "Spellbound Weapons",
           "type": "ForgeMod",
@@ -1620,6 +1660,16 @@
             "size": 622996,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/storagedelight-25.12.09-1.20-forge.jar",
             "MD5": "bd3a34d20c02a40c18cc6529df41b32f"
+          }
+        },
+        {
+          "id": "com.legacy.structure_gel.core:structure_gel:2.16.2@jar",
+          "name": "Structure Gel API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 966028,
+            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/structure_gel-1.20.1-2.16.2.jar",
+            "MD5": "a4e07a1d6ff69901f70b014683f04498"
           }
         },
         {
