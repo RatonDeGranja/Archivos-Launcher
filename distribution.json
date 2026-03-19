@@ -523,16 +523,6 @@
           }
         },
         {
-          "id": "artifacts:artifacts:9.5.16@jar",
-          "name": "Artifacts",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 850457,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/artifacts-forge-9.5.16.jar",
-            "MD5": "85081468e7498005f5dfdab2ae520097"
-          }
-        },
-        {
           "id": "mod.azure:azurelib:3.1.3@jar",
           "name": "AzureLib",
           "type": "ForgeMod",
@@ -590,16 +580,6 @@
             "size": 14953384,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/bloodmagic-1.20.1-3.3.5-47.jar",
             "MD5": "2ea93121fc479407e28952b1c04334c2"
-          }
-        },
-        {
-          "id": "com.legacy:blue_skies:1.3.31@jar",
-          "name": "Blue Skies",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 83564111,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/blue_skies-1.20.1-1.3.31.jar",
-            "MD5": "b808868fc3075d2f2ed62f3df27693ae"
           }
         },
         {
@@ -1590,16 +1570,6 @@
             "size": 1407708,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.119.1369.jar",
             "MD5": "32312142e7d407a90fb65d0141acd844"
-          }
-        },
-        {
-          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.5.1@jar",
-          "name": "Sound Physics Remastered",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 206984,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
-            "MD5": "d70031b5058fb81d2670a4039440b00f"
           }
         },
         {
