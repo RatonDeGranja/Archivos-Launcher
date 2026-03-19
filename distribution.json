@@ -583,16 +583,6 @@
           }
         },
         {
-          "id": "biomesoplenty.core:biomesoplenty:18.0.0.592@jar",
-          "name": "Biomes O' Plenty",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 21800460,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/BiomesOPlenty-1.20.1-18.0.0.592.jar",
-            "MD5": "dd2ec3933263ff5ff2eb0bbc21d8a0f7"
-          }
-        },
-        {
           "id": "biomesoplenty.forge.core:biomesoplenty:19.0.0.96@jar",
           "name": "Biomes O' Plenty",
           "type": "ForgeMod",
@@ -830,16 +820,6 @@
             "size": 398066,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
             "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
-          }
-        },
-        {
-          "id": "generated.forgemod:darkside:1.2.1@jar",
-          "name": "Darkside Of Anur",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 577706,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/Darkside_Of_Anur.jar",
-            "MD5": "0fe0108d53d2d2063e39407335d43cdf"
           }
         },
         {
@@ -1333,16 +1313,6 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:moonlight:1.20-2.14.1@jar",
-          "name": "Moonlight Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1266075,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/moonlight-1.20-2.14.1-forge.jar",
-            "MD5": "f78c882e5fbf3d3be480fc6768cecc85"
-          }
-        },
-        {
           "id": "net.mehvahdjukaar:moonlight:1.20-2.16.22@jar",
           "name": "Moonlight Library",
           "type": "ForgeMod",
@@ -1633,16 +1603,6 @@
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedcore:1.2.69.1005@jar",
-          "name": "Sophisticated Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1326167,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.69.1005.jar",
-            "MD5": "21d93102579f466386c6e9421314d648"
-          }
-        },
-        {
           "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.5.1@jar",
           "name": "Sound Physics Remastered",
           "type": "ForgeMod",
@@ -1700,16 +1660,6 @@
             "size": 515362,
             "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
             "MD5": "6559d43627646f16fbe02de085e98d5c"
-          }
-        },
-        {
-          "id": "net.mehvahdjukaar:supplementaries:1.20-3.1.29@jar",
-          "name": "Supplementaries",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 13601168,
-            "url": "https://raw.githubusercontent.com/RatonDeGranja/Archivos-Launcher/main/servers/MiServer-1.20.1/forgemods/required/supplementaries-1.20-3.1.29.jar",
-            "MD5": "3ef0be65998246969fd935e384ff9ea9"
           }
         },
         {
